@@ -25,6 +25,8 @@ This repo contains a work in progress Ecommerce responsive made with Next.js, Re
 
 ![Next Ecommerce screenshot](https://lucaspulliese.com/wp-content/uploads/2020/09/ecommerce-2.jpg)
 
+![Next Ecommerce screenshot](https://github.com/avs-abhishek123/E-commerce-App-with-React-Next.js/blob/main/public/images/product-page.PNG)
+
 ## Next TO-DO
 
 - [X] Checkout page
